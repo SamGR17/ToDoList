@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+
+input[id="text-input"]{
+    width: 700px;
+    height: 30px;
+    border: 1px solid black;
+    font-size: medium;
+}
+
+
+button[id="button"]{
+    width: 35px;
+    height: 35px;
+    background-color: steelblue;
+    border: 1px solid steelblue;
+    color: white;
+}
+
+
+.button-input-container{
+    text-align: center;
+}
